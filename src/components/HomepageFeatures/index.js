@@ -49,6 +49,7 @@ function Feature({Svg, title, description}) {
   );
 }
 
+// HomepageFeatures component
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
